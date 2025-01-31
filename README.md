@@ -98,19 +98,9 @@ Este projeto está sob a licença MIT.
 - Personalização por Granzottib
 
 ## 📫 Contato
-- Email: 
-- LinkedIn: 
+- Email: granzottib@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bruno-granzotti/
 - Github: https://github.com/granzottib
 
 ---
 ⌨️ com ❤️ por Bruno Granzottib 😊
-
-Você pode personalizar este README adicionando ou removendo seções de acordo com as especificidades do seu projeto. Lembre-se de:
-1. Substituir os textos entre colchetes []
-2. Adicionar screenshots do seu projeto
-3. Atualizar as tecnologias utilizadas
-4. Detalhar as modificações específicas que você fez
-5. Incluir informações de licença apropriadas
-
-Quer que eu detalhe alguma seção específica ou ajude a personalizar mais alguma parte?
-
